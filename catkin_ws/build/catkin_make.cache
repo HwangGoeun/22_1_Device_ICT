@@ -1,0 +1,2 @@
+ros_tutorials_topic:rosserial_stm32:subscriber_imu:ydlidar
+-DCATKIN_DEVEL_PREFIX=/home/takeout/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/takeout/catkin_ws/install -G Unix Makefiles

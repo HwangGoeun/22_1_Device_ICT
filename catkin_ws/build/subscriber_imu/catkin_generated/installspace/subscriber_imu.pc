@@ -1,0 +1,8 @@
+prefix=/home/takeout/catkin_ws/install
+
+Name: subscriber_imu
+Description: Description of subscriber_imu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
